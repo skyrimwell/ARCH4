@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class zdarovamessage {
+public class Zdarovamessage {
 
 	public static void main(String[] args) {
-		SpringApplication.run(zdarovamessage.class, args);
+		SpringApplication.run(Zdarovamessage.class, args);
 	}
 }
